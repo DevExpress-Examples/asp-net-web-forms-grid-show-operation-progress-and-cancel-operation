@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs)
 <!-- default file list end -->
 # ASPxGridView - How to show a lengthy operation's progress and allow canceling such operations
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t518056)**
+<!-- run online end -->
 
 
 <p>This example is created based on recommendations from the <a href="https://www.devexpress.com/Support/Center/p/E918">How to display progress information about server-side callback processing</a> example. The main idea is that it is required to divide long-time operations into different steps. Thus, if you know which step is performed, you can display the progress information:</p>
